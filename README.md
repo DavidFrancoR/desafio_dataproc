@@ -4,7 +4,7 @@ Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc
 Desafio GCP Dataproc
 Criando um ecossistema Hadoop totalmente gerenciado com Google Cloud Platform
 
-O desafio consiste em efetuar um processamento de dados utilizando o produto Dataproc do GCP. Esse processamento irá efetuar a contagem das palavras de um livro e informar quantas vezes cada palavra aparece no mesmo.
+O desafio consiste em efetuar um processamento de dados utilizando o produto Dataproc do GCP. Esse processamento irá efetuar a contagem das palavras de um livro ("Frankenstein or, The Modern Prometheus") e informar quantas vezes cada palavra aparece no mesmo.
 
 Etapas do Desafio
 Criar um bucket no Cloud Storage
